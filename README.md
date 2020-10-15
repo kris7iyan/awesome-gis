@@ -53,6 +53,7 @@ https://bg.wikipedia.org/wiki/Географска_информационна_с
 - [Национален регистър на населените места (НРНМ)](https://www.nsi.bg/nrnm/) - Данни за населените места и административно-териториална структура на България.
 - [Sentinel-Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/) - Преглед и изтегляне на изображения от европейскш мисии (Sentinel).
 - [USGS EarthExplorer](https://earthexplorer.usgs.gov) - Преглед и изтегляне на изображения от американски мисии (Landsat).
+- [GADM maps and data] (https://gadm.org/) - Глобални векторни данни. Често се използват за валидиране на административни единици от органзации като WHO; USAIDS; etc.
 
 
 ## Онлайн карти
